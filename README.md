@@ -1,9 +1,9 @@
-# BBScreenShot
+# UIScreenShotListener
 
 备注：里面的 .zip文件即为模块文件，可直接上传apicloud控制台自定义模块
 
 
-![截图1](https://github.com/huaibaobao2017/BBScreenShot/raw/master/Screenshots/IMG_0844.PNG)
+![截图1](https://github.com/huaibaobao2017/UIScreenShotListener/raw/master/Screenshots/IMG_0844.PNG)
 
 示例代码：
 
@@ -12,7 +12,7 @@ var demo;
 
 function apiready() {
     
-    demo = api.require('BBScreenShot');
+    demo = api.require('UIScreenShotListener');
     
     takeScreenShot();
 }
