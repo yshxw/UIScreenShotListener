@@ -1,0 +1,7 @@
+ [
+  {
+     "name":"BBScreenShot",
+     "class":"BBScreenShot",
+     "methods":["addEventListener"]
+ }
+]
