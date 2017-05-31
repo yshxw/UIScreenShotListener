@@ -1,5 +1,8 @@
 # BBScreenShot
 
+备注：里面的 .zip文件即为模块文件，可直接上传apicloud控制台自定义模块
+
+
 ![截图1](https://github.com/huaibaobao2017/BBScreenShot/raw/master/Screenshots/IMG_0844.PNG)
 
 示例代码：
