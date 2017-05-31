@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		215161151EA496B200223033 /* BBScreenShot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215161141EA496B200223033 /* BBScreenShot.swift */; };
+		215161151EA496B200223033 /* UIScreenShotListener.swift in Sources */ = {isa = PBXBuildFile; fileRef = 215161141EA496B200223033 /* UIScreenShotListener.swift */; };
 		522E96FC19EF920C00A2E9C5 /* libbz2.1.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 522E96FA19EF920C00A2E9C5 /* libbz2.1.0.dylib */; settings = {ATTRIBUTES = (Weak, ); }; };
 		522E96FD19EF920C00A2E9C5 /* libbz2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 522E96FB19EF920C00A2E9C5 /* libbz2.dylib */; settings = {ATTRIBUTES = (Weak, ); }; };
 		522E970019EF922000A2E9C5 /* libxml2.2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 522E96FE19EF922000A2E9C5 /* libxml2.2.dylib */; settings = {ATTRIBUTES = (Weak, ); }; };
@@ -106,7 +106,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		215161141EA496B200223033 /* BBScreenShot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BBScreenShot.swift; sourceTree = "<group>"; };
+		215161141EA496B200223033 /* UIScreenShotListener.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIScreenShotListener.swift; sourceTree = "<group>"; };
 		2171C6391EA66C140031EF8E /* UZApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UZApp-Bridging-Header.h"; sourceTree = "<group>"; };
 		522E96FA19EF920C00A2E9C5 /* libbz2.1.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libbz2.1.0.dylib; path = usr/lib/libbz2.1.0.dylib; sourceTree = SDKROOT; };
 		522E96FB19EF920C00A2E9C5 /* libbz2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libbz2.dylib; path = usr/lib/libbz2.dylib; sourceTree = SDKROOT; };
@@ -369,7 +369,7 @@
 			isa = PBXGroup;
 			children = (
 				2171C6391EA66C140031EF8E /* UZApp-Bridging-Header.h */,
-				215161141EA496B200223033 /* BBScreenShot.swift */,
+				215161141EA496B200223033 /* UIScreenShotListener.swift */,
 			);
 			path = UZModules;
 			sourceTree = "<group>";
@@ -548,7 +548,7 @@
 			files = (
 				527BCF7419C431480077631F /* AppDelegate.m in Sources */,
 				527BCF7119C431480077631F /* main.m in Sources */,
-				215161151EA496B200223033 /* BBScreenShot.swift in Sources */,
+				215161151EA496B200223033 /* UIScreenShotListener.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

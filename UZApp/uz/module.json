@@ -1,7 +1,7 @@
  [
   {
-     "name":"BBScreenShot",
-     "class":"BBScreenShot",
+     "name":"UIScreenShotListener",
+     "class":"UIScreenShotListener",
      "methods":["addEventListener"]
  }
 ]
